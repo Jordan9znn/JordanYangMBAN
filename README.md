@@ -1,4 +1,4 @@
-# Jordan Yang - MBAN 2024
+# MBAN Portfolio
 Course projects during Master of Business Analytics Program at UBC Sauder
 
 ### Education
